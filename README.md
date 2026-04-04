@@ -28,7 +28,7 @@ This project analyzes customer data to uncover:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard_preview.png)
+![Dashboard](images/dashboard_preview.png)
 
 
 ## 🔍 Key Insights

@@ -30,7 +30,6 @@ This project analyzes customer data to uncover:
 
 ![Dashboard](images/dashboard_preview.png)
 
-
 ## 🔍 Key Insights
 
 - Clothing category generates the highest revenue, making it the primary business driver.

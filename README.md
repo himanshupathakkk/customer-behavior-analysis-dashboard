@@ -1,5 +1,11 @@
 # 📊 Customer Behavior & Revenue Insights Dashboard
 
+## 📌 Overview
+
+This project analyzes retail customer data to uncover purchasing behavior, identify key revenue drivers, and provide actionable business insights.
+
+The goal is to help businesses optimize customer engagement, improve marketing strategies, and maximize revenue.
+
 ## 📌 Problem Statement
 
 A retail company wants to understand customer purchasing behavior to improve sales, customer engagement, and profitability.
@@ -48,11 +54,24 @@ This project analyzes customer data to uncover:
 
 ## 📁 Project Structure
 
-- `customer_shopping_behavior.csv` → Dataset  
-- `data_cleaning.ipynb` → Data preprocessing  
-- `analysis_queries.sql` → SQL analysis  
-- `powerbi_dashboard.pbix` → Power BI dashboard  
-- `dashboard_preview.png` → Dashboard snapshot  
+customer-behavior-analysis-dashboard/  
+│  
+├── dashboard/  
+│   └── customer_behavior_dashboard.pbix  
+│  
+├── data/  
+│   └── customer_shopping_behavior.csv  
+│  
+├── images/  
+│   └── dashboard_preview.png  
+│  
+├── python/  
+│   └── data_cleaning.ipynb  
+│  
+├── sql/  
+│   └── analysis_queries.sql  
+│  
+└── README.md  
 
 
 ## ⭐ What Makes This Project Unique
@@ -70,5 +89,17 @@ This project analyzes customer data to uncover:
 - Implement predictive analytics (sales forecasting, churn analysis)
 
 
-## Final Version
-This project represents the final polished version of the analysis.
+## ⭐ What Makes This Project Unique
+
+- End-to-end data pipeline (**Python → SQL → Power BI**)  
+- Focus on **business insights and decision-making**, not just visualization  
+- Analysis of **discount impact on revenue and profitability**  
+- Clean, structured, and professional dashboard design  
+- Strong emphasis on **customer segmentation and revenue optimization**
+
+
+## 📌 Conclusion
+
+This project demonstrates how data-driven analysis can uncover meaningful customer insights and support strategic decision-making.
+
+It highlights the importance of balancing customer engagement with profitability to drive sustainable business growth.
